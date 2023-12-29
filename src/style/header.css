@@ -1,0 +1,56 @@
+.header{
+    border: 2px solid  #c0c5c4;
+    box-shadow: 0rem 0rem 0.3rem 0.3rem #c1c5c4;
+
+    
+}
+
+.header-bg{
+    display:  flex;
+    justify-content: space-between;
+}
+.header-btn-bgs{
+    margin: 0.5rem;
+    
+}
+button{
+    margin-right: 1rem;
+    border: none;
+    cursor: pointer;
+
+}
+.owners{
+    width: 12rem;
+    color: white;
+    font: 14px "Source Sans Pro",sans-serif;
+    background-color: #007A6F;
+    font-weight: 400;
+    padding: 3px 10px;
+}
+.btn-booking{
+    width: 8rem;
+    font: 14px "Source Sans Pro",sans-serif;
+    gap: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+
+}
+.btn-menu{
+    width: 4rem;
+    font: 14px "Source Sans Pro",sans-serif;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding: 0px 15px;
+
+
+}
+.btn-cards{
+    font: 14px "Source Sans Pro",sans-serif;
+    gap: 10px;
+    padding: 0px 15px;
+}
